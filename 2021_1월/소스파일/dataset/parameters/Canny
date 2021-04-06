@@ -1,7 +1,0 @@
-{
-    "default": {
-        "threshold": [1, 70, 255],
-        "ratio": [1, 3, 3],
-        "L2gradient": [0, 0, 1]
-    }
-}
