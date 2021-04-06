@@ -1,0 +1,1 @@
+{"default": {"scan_height": [0, 50, 100], "step_window": [1, 5, 1000], "judge_y": [0, 135, 480], "win_width": [0, 30, 100], "scan_width": [0, 50, 100], "threshold": [0, 20, 100], "num_of_windows": [0, 16, 100]}, "null": {}}
